@@ -93,32 +93,21 @@ div.section-center {
   background-color: #ffffff;
 }
 @media (min-width: 300px){
-    body {
-        background-color: blue;
-    }
     h1 {
         font-size: 14px;
     }
     p {
         font-size: 10px;
     }
-    box2 {
-        font-size: 14px;
-    }
 }
 
 @media (min-width: 600px){
-    body {
-        background-color: orchid;
-    }
+
     h1 {
         font-size: 18px
     }
     p {
         font-size: 14px;
-    }
-    box2 {
-        font-size: 18px;
     }
 }
 
@@ -129,8 +118,5 @@ div.section-center {
     }
     p {
         font-size: 18px;
-    }
-    box2 {
-        font-size: 22px;
     }
 }
